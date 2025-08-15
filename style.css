@@ -28,6 +28,7 @@ td {
     font-size: 2em;
     padding: 10px 20px;
     text-align: start;
+    border: 1px solid #fff;
 }
 
 input {
