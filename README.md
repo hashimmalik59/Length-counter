@@ -1,1 +1,1 @@
-# Length-counter
+# Character Counter App(Dynamic)
